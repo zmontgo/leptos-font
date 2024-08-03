@@ -1,0 +1,13 @@
+[package]
+name = "leptos-font"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+base64 = "0.22.1"
+file-format = "0.25.0"
+leptos = "0.6.13"
+short-uuid = "0.1.2"
+thiserror = "1.0.63"
+ttf-parser = "0.24.0"
+woff = "0.3.3"
